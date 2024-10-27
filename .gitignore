@@ -1,0 +1,38 @@
+# Custom project files
+x_tool_def.py
+response.txt
+
+# Virtual environments
+.venv
+.environments
+
+# Byte compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Distribution / packaging
+build/
+.Python
+lib/
+lib64/
+eggs/
+.eggs/
+var/
+wheels/
+downloads/
+develop-eggs/
+MANIFEST
+.installed.cfg
+share/python-wheels/
+
+#PyInstaller
+pip-log.txt
+pip-delete-this-directory.txt
+
+# Coverage reports
+.cache
+.tox/
+.nox/
+.coverage.coverage.*
+*.cover
